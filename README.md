@@ -13,4 +13,7 @@ Supports custom occasions, multi-language captions (English, Hindi, Tamil), cust
 # Tech Stack
 - Python (Flask, Pillow)
 - HTML/CSS (Google Fonts, styled forms)
-- Deployed locally, works as a demo web app
+- Deployed locally, works as a demo web app\
+
+# Live Demo
+The project is deployed here: [https://jananiuka.pythonanywhere.com](https://jananiuka.pythonanywhere.com)
